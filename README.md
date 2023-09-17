@@ -2,7 +2,7 @@
 How to call C++ code in Python.
 
 We use an example of dot product. Please also see the video in bilibili: 
-[Python调用C++函数，获得与C++媲美的速度](https://search.bilibili.com/all?vt=71648091&keyword=cython&from_source=webtop_search&spm_id_from=333.1007&search_source=5)
+[Python调用C++函数，获得与C++媲美的速度](【Python调用C++函数，获得与C++媲美的速度。】 https://www.bilibili.com/video/BV16a411y7wT/?share_source=copy_web&vd_source=e5431a0889dcfd6827b0e15e12d1bbd5)
 
 To run the code in C++,
 first compile: `g++ main.cpp _det.cpp -o main`
